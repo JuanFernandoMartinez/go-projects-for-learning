@@ -1,0 +1,1 @@
+go run main.go root password tcp 127.0.0.1:10000 recordings
